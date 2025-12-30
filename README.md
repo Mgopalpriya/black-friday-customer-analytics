@@ -83,15 +83,17 @@ The Power BI dashboard provides:
 ---
 
 ## 📂 Repository Structure
+
 black-friday-customer-analytics/
 │
 ├── README.md
-├── notebooks/        # Python analysis notebooks
-├── data/             # Cleaned and feature-engineered datasets
-├── dashboard/        # Power BI (.pbix) file
-├── docs/             # Detailed project documentation
-├── presentation/     # Executive insights deck (PDF)
-└── visuals/          # Dashboard screenshots
+├── notebooks/ # Python analysis notebooks
+├── data/ # Cleaned and feature-engineered datasets
+├── dashboard/ # Power BI (.pbix) file
+├── docs/ # Detailed project documentation
+├── presentation/ # Executive insights deck (PDF)
+└── visuals/ # Dashboard screenshots
+
 
 
 ---
